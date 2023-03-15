@@ -1,1 +1,1 @@
-Alias projects
+alias project
